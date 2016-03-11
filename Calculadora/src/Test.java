@@ -19,7 +19,7 @@ public class Test {
     System.out.printf("El resultado actual tras la division es de %.2f\n", calc1.resultado);
     calc1.resto(3);
     System.out.printf("El resultado actual del resto es de %.2f\n", calc1.resultado);
-    
+    System.out.println("Hola soy un cambio");
     
     
     }
